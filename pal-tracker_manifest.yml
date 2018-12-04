@@ -7,4 +7,4 @@ applications:
   routes:
   - route: pal-tracker-brash-swan.cfapps.io
   env:
-      WELCOME_MESSAGE: Hello from the review environment!!!
+      WELCOME_MESSAGE: Hello from the review environment ###
